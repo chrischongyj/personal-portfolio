@@ -16,9 +16,9 @@ A party game to guess a random song just by listening to its instrumental versio
 - Buttons:
   - Link [https://guessthesong-d578b.firebaseapp.com/]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Trump Browser
+Trump Browser is an Android app that shakes your phone, plays YMCA and shows a Donald Trump GIF whenever you browse a website with Donald Trump in it. A fun project made for the annual NUS Hack&Roll hackathon, where I won a top 8 prize among 171 projects.
+- ![600x200](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM4PZfJ9uGJUP8DnnECMDBqDYruRq7t6IrYg&s)
 - Tags: Category 3
 - Badges:
   - Badge [blue]
