@@ -19,6 +19,7 @@ export default function Footer() {
         align="center"
       >
         <Text>© 2024 Chris Chong. All rights reserved</Text>
+        <Text fontSize="10px">Credits to <a href="https://github.com/eldoraboo/portable-portfolio" target="_blank">eldoraboo</a></Text>
       </Container>
     </Box>
   );
