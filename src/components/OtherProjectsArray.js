@@ -46,7 +46,7 @@ const OtherProjectsArray = () => {
   const [OtherProjects, setOtherProjects] = useState([]);
 
   useEffect(() => {
-    fetch("/content/OtherProjects.md")
+    fetch(`${process.env.PUBLIC_URL}/content/OtherProjects.md`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");
