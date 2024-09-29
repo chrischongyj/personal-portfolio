@@ -69,7 +69,7 @@ const ProfileArray = () => {
   });
 
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/content/Profile.md`)
+    fetch(`/Profile.md`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");

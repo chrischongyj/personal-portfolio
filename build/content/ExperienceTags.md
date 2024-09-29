@@ -1,3 +1,0 @@
-Full Time
-Internship
-Freelance

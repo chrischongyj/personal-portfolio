@@ -49,7 +49,7 @@ const ProjectsArray = () => {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/content/Projects.md`)
+    fetch(`/Projects.md`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");
