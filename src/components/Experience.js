@@ -90,7 +90,7 @@ export default function Experience({ color }) {
                         </Text>
                       </Flex>
                     </CardHeader>
-                    <CardBody>
+                    <CardBody align="left">
                       <Flex>
                         <List align="left" spacing={3}>
                           {exp.listItems.map((item, index) => (
